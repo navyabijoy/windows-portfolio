@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Windows 98 Portfolio - Retro Desktop Experience",
+  title: "Navya's Portfolio",
   description: "A nostalgic Windows 98/XP themed portfolio showcasing projects, skills, and contact information in an interactive desktop environment.",
   keywords: ["portfolio", "windows 98", "retro", "web developer", "interactive"],
 };
