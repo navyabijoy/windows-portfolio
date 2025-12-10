@@ -1,0 +1,14 @@
+PLACEHOLDER RESUME FILE
+
+This is a placeholder file. To enable resume downloads:
+
+1. Replace this file with your actual resume PDF
+2. Name it "resume.pdf" 
+3. Place it in the public folder
+
+OR
+
+Update the resumePdfUrl in components/apps/ResumeViewer.tsx
+to point to your resume hosted on Google Drive, Dropbox, or your own server.
+
+See HOW_TO_ADD_RESUME.md for detailed instructions.
